@@ -1,0 +1,23 @@
+.bg-danger{
+    height: 400px;
+}
+ 
+.bg-primary{
+    height: 400px;
+}
+
+.bg-dark{
+    height: 400px;
+}
+
+.bg-success{
+    height: 400px;
+}
+
+
+@media screen {
+    .body{
+        margin: 0;
+    }
+    
+}
